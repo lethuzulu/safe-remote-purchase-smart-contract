@@ -1,0 +1,1 @@
+# safe-remote-purchase-smart-contract
